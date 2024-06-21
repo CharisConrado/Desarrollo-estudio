@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Descargas",
+    "carpeta1":["Taller1", "Taller2", "Taller3"]
+  },
+
+  {
+    "name": "Documentos"
+  },
+
+  {
+    "name": "Escritorio"
+  },
+
+  {
+    "name": "Imagenes"
+  },
+
+  {
+    "name": "Musica"
+  }
+]
+  
