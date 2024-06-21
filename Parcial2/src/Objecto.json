@@ -1,0 +1,19 @@
+[
+    {
+        "Pregunta":"¿Cual es la capital de Colombia?",
+        "res1":"Caracas",
+        "res2":"Santiago",
+        "res3":"Buenos Aires",
+        "correcta":"Bogota"
+    },
+
+    {
+        "Pregunta":"¿Cual animal es salvaje?",
+        "res1":"Perro",
+        "res2":"Gato",
+        "res3":"Loro",
+        "correcta":"Tigre"
+    }
+
+
+]
